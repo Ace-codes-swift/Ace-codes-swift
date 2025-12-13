@@ -30,7 +30,7 @@ Hey! I’m a indie developer who spends most of my time building games, tools, a
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Godot" title="Godot" width="45" height="45"/>
-  <img src="./omnix.png" alt="Ollama" width="45" height="45"/>
+  <img src="./omnix.png" alt="Omnix" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="45" height="45"/>
   
 </p>
