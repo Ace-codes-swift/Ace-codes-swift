@@ -80,7 +80,7 @@ These are my favorite projects, I still want to keep improving on them to this d
 ### [Omnix](https://github.com/Ace-codes-swift/Omnix)
 >A macOS-native everything-3D creation studio featuring a modular workspace, polyglot scripting hooks, and immersive viewport tooling.
 
-### [AI Warehouse Soccer (aiw_soccer)](https://github.com/DQN-Labs/aiw_soccer)
+### [WRender]([https://github.com/DQN-Labs/aiw_soccer](https://github.com/Ace-codes-swift/wrender))
 > Community-powered, interactive soccer game experience for the official AI Warehouse videos. Play, contribute, and see how RL powers a team on the (virtual) field!
 
 ---
